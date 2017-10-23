@@ -1,0 +1,27 @@
+{
+  "name": "graphql-hapi-practice",
+  "version": "1.0.0",
+  "description": "Learning graphql with hapi!",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^0.3.3",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.6.1",
+    "hapi": "^16.6.2",
+    "mongoose": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dllndv/graphql-hapi-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dllndv/graphql-hapi-practice/issues"
+  },
+  "homepage": "https://github.com/dllndv/graphql-hapi-practice#readme"
+}
